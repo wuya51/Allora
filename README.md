@@ -17,7 +17,7 @@
   
        .如果有错误，请尝试3-5次
 
-       .领完水后可以到查看奖励积分网站 ：https://app.allora.network?ref=eyJyZWZlcnJlcl9pZCI6ImI2NmYzNjA3LWYyYjEtNGZmYi1hZGI4LTM4YmJmODNjNzU0NCJ9
+       .领完水后可以到查看奖励积分网站 ：[奖励积分网站](https://chrome.google.com/webstore/detail/dmkamcknogkgcdfhhbddcghachkejeap)
 
 
 部署 一 ：
