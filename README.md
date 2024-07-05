@@ -69,7 +69,7 @@
        
            查看同步高度： allorad status | jq .sync_info
        
-       实时查看同步高度: watch -n1 'echo "\sync:";allorad status | jq .sync_info'
+           实时查看同步高度: watch -n1 'echo "\sync:";allorad status | jq .sync_info'
 
 
 
