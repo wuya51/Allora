@@ -11,9 +11,9 @@
 
 准备钱包和领水：
 
-      .安装keplr钱包 : [Keplr Extension](https://chrome.google.com/webstore/detail/dmkamcknogkgcdfhhbddcghachkejeap)
+      .安装keplr钱包 : https://chrome.google.com/webstore/detail/dmkamcknogkgcdfhhbddcghachkejeap
   
-      .领水链接 : [Allora Fauce](https://faucet.edgenet.allora.network/)
+      .领水链接 : https://faucet.edgenet.allora.network/
   
        .如果有错误，请尝试3-5次
 
