@@ -7,6 +7,7 @@
 
 准备钱包和领水：
   安装keplr钱包 : [Keplr Extension](https://chrome.google.com/webstore/detail/dmkamcknogkgcdfhhbddcghachkejeap)
+  
   领水链接 : [Allora Fauce](https://faucet.edgenet.allora.network/)
     如果有错误，请尝试3-5次
 
@@ -14,6 +15,7 @@
 部署 一 ：
 
   如果您想在单独的 VPS 上运行此节点并且您已经尝试在该单独的 VPS 上运行此节点，则需要使用下面提到的命令删除 docker 容器文件，不要在运行其他节点的 VPS 上执行这 2 个命令。
+  
     docker stop $(docker ps -aq)
     
     docker rm $(docker ps -aq)
