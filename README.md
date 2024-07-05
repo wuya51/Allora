@@ -14,7 +14,8 @@
 部署 一 ：
 
   如果您想在单独的 VPS 上运行此节点并且您已经尝试在该单独的 VPS 上运行此节点，则需要使用下面提到的命令删除 docker 容器文件，不要在运行其他节点的 VPS 上执行这 2 个命令。
-    docker stop $(docker ps -aq) && docker rm $(docker ps -aq)
+    docker stop $(docker ps -aq)
+    docker rm $(docker ps -aq)
 
   不要在运行其他节点的 VPS 上执行这 2 个命令，只需跳过“部署 一”并转到“部署 二‘
 
