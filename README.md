@@ -18,8 +18,9 @@
        .如果有错误，请尝试3-5次
 
        .领完水后可以到查看奖励积分网站 ：
-       
-         https://app.allora.network?ref=eyJyZWZlcnJlcl9pZCI6ImI2NmYzNjA3LWYyYjEtNGZmYi1hZGI4LTM4YmJmODNjNzU0NCJ
+
+          https://app.allora.network?ref=eyJyZWZlcnJlcl9pZCI6ImI2NmYzNjA3LWYyYjEtNGZmYi1hZGI4LTM4YmJmODNjNzU0NCJ9
+        
 
 
 部署 一 ：
@@ -38,7 +39,7 @@
   
         rm -rf allora.sh allora-chain/ basic-coin-prediction-node/    
 
-        wget https://raw.githubusercontent.com/wuya51/Aallora/main/Allora-Worker-Node.shh && chmod +x Allora-Worker-Node.sh && ./Allora-Worker-Node.sh
+        wget https://raw.githubusercontent.com/wuya51/Allora/main/Allora-Worker-Node.sh && chmod +x Allora-Worker-Node.sh && ./Allora-Worker-Node.sh
 
       这个脚本是老外制作的，有点缺陷，你接下来要做
      
