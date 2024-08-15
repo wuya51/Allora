@@ -192,7 +192,7 @@ docker compose logs -f worker
 
 ```
 
-# 积分 [面板](https://app.allora.network/points/leaderboard) 3个小时后再来看积分
+# 3个小时后再查看积分
 # 加入TG 
 - Telegram - https://t.me/new5151
 
