@@ -50,7 +50,7 @@ def get_inference(token):
  
     headers = {
         "accept": "application/json",
-        "x-cg-demo-api-key": "<Your Coingecko API key>" # replace with your API key
+        "x-cg-demo-api-key": "<Your Coingecko API key>" # 这里需要更改成你的API
     }
  
     response = requests.get(url, headers=headers)
