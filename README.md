@@ -113,8 +113,6 @@ cd basic-coin-prediction-node
 
 ### 2- 配置文件
 ```console
-# Remove config file
-rm -rf config.json
 
 # 导入仓库里的 config.json、model.py、app.py和requirements.txt文件，覆盖原来文件
 # 修改config.json 文件 ，改成自己的助记词
